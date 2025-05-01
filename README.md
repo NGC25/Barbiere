@@ -6,3 +6,7 @@ Users can browse images to see if the shop fits their personal style
 It provides discounts for students- the main target audience in are
 Simple for users for efficiency.
 
+Links to booking, gallery and back to home page work.
+
+Code was largely from w3schools website.
+Light house scores: SEO 91, accessibility 90, performance 8a and best practices 86
